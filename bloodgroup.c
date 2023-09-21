@@ -35,7 +35,7 @@ void main()
     {
       printf("%s, AB! Oh my God, you can give blood only to: AB.\n", Name);
       printf("  Wow, you can receive blood from all: O, A, B, AB.\n");
-    }
+    } 
     else
     {
       printf("%s, O! Nice! You can give blood to all: O, A, B, AB\n", Name);
